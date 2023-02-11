@@ -1,0 +1,26 @@
+<Note>
+	<pos>1680</pos>
+	<duration>120</duration>
+	<pitch>B4</pitch>
+	<lyric><![CDATA[ki]]></lyric>
+	<Syllable>
+		<head>
+			<p><x>1500.751</x><y>0</y></p>
+			<p><x>1549.404</x><y>1</y></p>
+		</head>
+		<cur>
+			<p><x>1549.404</x><y>0</y></p>
+			<p><x>1549.388</x><y>0</y></p>
+			<p><x>1620.163</x><y>0.541873</y></p>
+			<p><x>1680</x><y>1</y></p>
+			<sample><![CDATA[A4]]></sample>
+		</cur>
+	</Syllable>
+	<Syllable>
+		<cur>
+			<p><x>1680</x><y>0</y></p>
+			<p><x>1777.341</x><y>1</y></p>
+			<sample><![CDATA[A4]]></sample>
+		</cur>
+	</Syllable>
+</Note>
